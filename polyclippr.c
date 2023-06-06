@@ -356,3 +356,6 @@ int main(int argc, char **argv)
    
    return 0;
 }
+
+//vertices : 4
+//(50,250) (250,450) (450,250) (250,50)
